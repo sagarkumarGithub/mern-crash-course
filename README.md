@@ -1,5 +1,6 @@
 🛍️ MERN Crash Course – ( Product Store )
 <br/>
+<br/>
 A simple and clean MERN Stack project demonstrating CRUD operations on products with support for dark/light themes. This is perfect for learning full-stack development using React, Node.js, Express, and MongoDB.
 <br/>
 
